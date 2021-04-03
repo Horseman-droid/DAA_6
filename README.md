@@ -1,4 +1,4 @@
-# Assignment-4
+# Assignment-6
 
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
@@ -7,7 +7,7 @@
 |    IIB2019020  |   Devang Bharti | Horseman-droid  |
 |    IIB2019021  |   Hitika Rajesh Kumar | hitika22 |
 
-**Group No-**"7"
+**Group No-**"26"
 
 **Faculty Name-**"Rahul Kala"
 
