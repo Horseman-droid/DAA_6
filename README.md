@@ -15,7 +15,7 @@
 
 ---
 ## Problem Statement
-
+knight tour chess board problem
 ---
 ## How to use code
 ```
@@ -33,7 +33,7 @@ cd assignment_06
 
 #Create file
 touch readme.md
-touch final.cpp
+touch Solution.cpp
 .
 .
 ```
@@ -41,7 +41,7 @@ touch final.cpp
 
 Run the code
 ```
-g++ final.cpp
+g++ Solution.cpp
 ```
 Output
 ```
