@@ -20,7 +20,7 @@
 ## How to use code
 ```
 #Download project
-git clone https://github.com/bchetanrao/DAA 
+git clone https://github.com/Horseman-droid/DAA_6 
 ```
 Project Initialize 
 ```
