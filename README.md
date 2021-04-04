@@ -25,7 +25,7 @@ git clone https://github.com/Horseman-droid/DAA_6
 Project Initialize 
 ```
 cd DAA_6
-#create assignment-4 folder
+#create assignment-6 folder
 mkdir assignment_06
 
 #go to assignment-6
