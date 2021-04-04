@@ -94,4 +94,12 @@ the time needed for this algorithm grows roughly lineraly with the number of squ
 **Time Complexity**
 
 the time needed for this algorithm grows roughly linearaly with the number of squares of the chessboard.
+
 ---
+
+**Space Complexity**
+
+### References
+
+https://stackoverflow.com/questions/19214109/how-to-optimize-knights-tour-algorithm
+https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/
