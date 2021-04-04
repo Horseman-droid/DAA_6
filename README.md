@@ -99,6 +99,7 @@ the time needed for this algorithm grows roughly linearaly with the number of sq
 
 **Space Complexity**
 
+the space complexity for this algorithm is O(N^2), as we have an array of N*N.
 ---
 
 ### References
