@@ -99,6 +99,8 @@ the time needed for this algorithm grows roughly linearaly with the number of sq
 
 **Space Complexity**
 
+---
+
 ### References
 
 https://stackoverflow.com/questions/19214109/how-to-optimize-knights-tour-algorithm
