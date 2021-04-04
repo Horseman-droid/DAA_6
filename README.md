@@ -80,3 +80,18 @@ Output
     18 63 10 21 32 13 4 41
     23 8 19 16 11 6 31 14
     64 17 22 7 20 15 12 5
+    
+###Theory
+The Solution to this problem is based on backtracking aproach but we can say a modified verson of it which we have implemented using Warnsdorff’s Rule
+
+the knight can start from any initial position on the chessboard. the knight is moved so that it always proceeds to the square from which the knight will have minumum onward moves.
+this is basically the modified version of backtracking problem of knight’s tour.
+the time needed for this algorithm grows roughly lineraly with the number of squares of the chessboard.
+
+---
+### Analysis
+
+**Time Complexity**
+
+the time needed for this algorithm grows roughly linearaly with the number of squares of the chessboard.
+---
