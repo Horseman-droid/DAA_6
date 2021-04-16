@@ -91,7 +91,7 @@ bool knightTour()
 }
 int main()
 {
-	srand(time(NULL));
+	
 	cout <<"Enter the initial cordinates" << endl;
 	while (!knightTour())
 	{
