@@ -36,7 +36,7 @@ int main()
     for(int j=0;j<n;j++)
         result[i][j] = -1;
 
-    result[sx][sy] = 0;
+    result[sx][sy] =1;
 
     if (knightTour(sx,sy,1,result) == 0)
     {
