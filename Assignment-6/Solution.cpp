@@ -93,9 +93,9 @@ int main()
 {
 	
 	cout <<"Enter the initial cordinates" << endl;
-	while (!knightTour())
+	if(!knightTour())
 	{
-	;
+		cout << "NOT POSSIBLE";
 	}
 	return 0;
 }
