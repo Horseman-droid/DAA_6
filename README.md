@@ -50,7 +50,6 @@ not possible to cover in some cases
 ---
 
 **Test case**
-Find the sum of geometric series
 ```
 Test Case-1
 Input:
